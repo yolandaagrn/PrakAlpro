@@ -1,0 +1,9 @@
+Daftar luas bangun datar
+persegi = sisi*sisi
+persegi panjang = panjang*lebar
+segitiga = (alas*tinggi)/2
+lingkaran = phi*r*r atau phi*d
+jajar genjang = alas*tinggi
+belah ketupat = (d1*d2)/2
+trapesium = ((sisi atas+sisi bawah)*t) / 2
+layang-layang = (d1*d2)/2
